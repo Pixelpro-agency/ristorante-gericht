@@ -14,8 +14,8 @@ const Footer = () => (
       <div className="app__footer-links_contact">
         <h1 className="app__footer-headtext">Contattaci</h1>
         <p className="p__opensans">00000, Roma, Italia</p>
-        <p className="p__opensans">+1 212-344-1230</p>
-        <p className="p__opensans">+1 212-555-1230</p>
+        <p className="p__opensans">+39 212-344-1230</p>
+        <p className="p__opensans">+39 212-555-1230</p>
       </div>
 
       <div className="app__footer-links_logo">
